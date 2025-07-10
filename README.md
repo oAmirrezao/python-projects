@@ -18,6 +18,20 @@ Key features:
 
 📁 Repository: [github.com/oAmirrezao/Payment-Receipts-App](https://github.com/oAmirrezao/Payment-Receipts-App)
 
+### 🔹 [Simple Python Keylogger](https://github.com/oAmirrezao/simple-python-keylogger)
+
+A simple, user-friendly Python keylogger built with `pynput`.  
+It logs every key press (including special keys) with timestamps to a customizable text file, optionally prints keystrokes live to the console, and cleanly stops on pressing `<Esc>`.  
+
+**Key features:**  
+- Timestamped logging of all key presses  
+- Console output option for live monitoring  
+- Graceful termination on Escape key  
+- Configurable output filename via command line arguments  
+- Clear, well-documented code ideal for learning and extension  
+
+📁 Repository: [github.com/oAmirrezao/simple-python-keylogger](https://github.com/oAmirrezao/simple-python-keylogger)
+
 ---
 
 More projects coming soon...
